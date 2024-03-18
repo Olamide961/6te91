@@ -1,0 +1,31 @@
+.tech {
+    position: relative;
+    height: 700px;
+    margin-top: 120px;
+}
+
+.tech-header {
+    position: absolute;
+    font-size: 40px;
+    left: 40%;
+    top: 70px;
+    font-weight: 300;
+}
+
+.tech-content {
+    position: fixed;
+    overflow:hidden;
+    top: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.tech-image, .tech-image2 {
+    flex: 50%;
+}
+
+.img-1, .img-2, .img-3, .img-4 {
+    height: 300px;
+    width: 300px;
+}

@@ -1,0 +1,30 @@
+.content {
+    position: relative;
+    height: 700px;
+    margin-top: 120px;
+}
+
+.nav-content {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100%; 
+    align-items: center;
+    
+}
+
+.nav-content-para {
+    position: absolute;
+    font-size: 45px;
+    font-weight: 200;
+    text-transform: uppercase; 
+    margin: 0;
+    text-align: center;
+    top: 35%;
+}
+
+.nav-content-para span {
+    margin-right: 20px;
+    margin-left: 20px;
+}

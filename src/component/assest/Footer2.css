@@ -1,0 +1,28 @@
+.bottom-container {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    margin-left: 10px;
+  }
+  
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .btn-copyright p{
+    font-size: 18px;
+    margin: 0;
+  }
+  .btn-copyright p span {
+    margin: 10px;
+  }
+  
+  
+  .footer-menu {
+    display: flex;
+    justify-content: end;
+    height: 100%;
+  
+  }
